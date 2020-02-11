@@ -1,1 +1,2 @@
-custom configurations from GNU/Linux environments, mostly from /home
+custom configurations from /home
+repo from Debian Sid
